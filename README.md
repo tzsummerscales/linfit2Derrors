@@ -7,4 +7,5 @@ The purpose of this project is to perform a linear fit, determining the best slo
 
 ## Files
 weighted2D.py - contains the functions that perform the linear fit calculation
+
 example.py - a script that runs the fitting functions on some example data
